@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LoanManagementSystem.Infrastructure/1.0.0": {
+        "dependencies": {
+          "LoanManagementSystemApplication": "1.0.0"
+        },
+        "runtime": {
+          "LoanManagementSystem.Infrastructure.dll": {}
+        }
+      },
+      "LoanManagementSystem.Domain/1.0.0": {
+        "runtime": {
+          "LoanManagementSystem.Domain.dll": {}
+        }
+      },
+      "LoanManagementSystemApplication/1.0.0": {
+        "dependencies": {
+          "LoanManagementSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LoanManagementSystemApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoanManagementSystem.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoanManagementSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoanManagementSystemApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
