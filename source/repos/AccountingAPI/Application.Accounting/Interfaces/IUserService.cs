@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace LoanManagementSystemApplication.Interfaces
 {
-    public interface ILoanRepository
+    public interface IUserService
     {
-        Task<IEnumerable<Loan>> GetAllAsync();
-        Task<int> CreateAsync(Loan loan);
+        Task<User?> GetByUsernameAsync(string username);
+        Task<int> CreateAsync(User user);
     }
 }

@@ -10,10 +10,10 @@ namespace LoanManagementSystem.Domain.Entities
     {
         public int Id { get; set; }
         public int MemberId { get; set; }
-        public decimal Amount { get; set; }
-        public int InstallmentCount { get; set; }
+        public decimal Amount { get;   set; }
+        public int InstallmentCount { get;  set; }
         public DateTime StartDate { get; set; }
-        public string Status { get; set; } = "Active";
+        public string Status { get;   set; } = "Active";
         public int? CreatedByUserId { get; set; }
     }
 }

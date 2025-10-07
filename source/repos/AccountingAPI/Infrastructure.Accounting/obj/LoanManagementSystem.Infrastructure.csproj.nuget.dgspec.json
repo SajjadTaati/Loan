@@ -4,6 +4,93 @@
     "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Infrastructure.Accounting\\LoanManagementSystem.Infrastructure.csproj": {}
   },
   "projects": {
+    "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj",
+        "projectName": "LoanManagementSystem.API",
+        "projectPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj",
+        "packagesPath": "C:\\Users\\sajad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\AccountingAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sajad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj": {
+                "projectPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -46,6 +133,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.14.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -151,6 +248,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj": {
+                "projectPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj"
+              },
               "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj": {
                 "projectPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj"
               }
@@ -166,6 +266,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

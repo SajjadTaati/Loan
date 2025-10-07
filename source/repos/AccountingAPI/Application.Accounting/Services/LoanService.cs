@@ -10,9 +10,9 @@ namespace LoanManagementSystemApplication.Services
 {
     public class LoanService
     {
-        private readonly ILoanRepository _repo;
+        private readonly ILoanService _repo;
 
-        public LoanService(ILoanRepository repo)
+        public LoanService(ILoanService repo)
         {
             _repo = repo;
         }
@@ -24,7 +24,7 @@ namespace LoanManagementSystemApplication.Services
 
         public async Task<int> AddLoanAsync(Loan loan)
         {
-            // منطق تجاری مثل اعتبارسنجی یا موجودی صندوق
+          
             return await _repo.CreateAsync(loan);
         }
     }
