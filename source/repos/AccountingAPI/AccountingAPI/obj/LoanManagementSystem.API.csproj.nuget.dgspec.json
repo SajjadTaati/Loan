@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj": {}
+    "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj": {
+    "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj",
+        "projectUniqueName": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj",
         "projectName": "LoanManagementSystem.API",
-        "projectPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj",
+        "projectPath": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj",
         "packagesPath": "C:\\Users\\sajad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\AccountingAPI\\obj\\",
+        "outputPath": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\AccountingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj": {
-                "projectPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj"
+              "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj": {
+                "projectPath": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj": {
+    "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj",
+        "projectUniqueName": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj",
         "projectName": "LoanManagementSystemApplication",
-        "projectPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj",
+        "projectPath": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj",
         "packagesPath": "C:\\Users\\sajad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Application.Accounting\\obj\\",
+        "outputPath": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Application.Accounting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -118,8 +118,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Domain.Accounting\\LoanManagementSystem.Domain.csproj": {
-                "projectPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Domain.Accounting\\LoanManagementSystem.Domain.csproj"
+              "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Domain.Accounting\\LoanManagementSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Domain.Accounting\\LoanManagementSystem.Domain.csproj"
               }
             }
           }
@@ -163,14 +163,14 @@
         }
       }
     },
-    "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Domain.Accounting\\LoanManagementSystem.Domain.csproj": {
+    "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Domain.Accounting\\LoanManagementSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Domain.Accounting\\LoanManagementSystem.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Domain.Accounting\\LoanManagementSystem.Domain.csproj",
         "projectName": "LoanManagementSystem.Domain",
-        "projectPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Domain.Accounting\\LoanManagementSystem.Domain.csproj",
+        "projectPath": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Domain.Accounting\\LoanManagementSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\sajad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Domain.Accounting\\obj\\",
+        "outputPath": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Domain.Accounting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

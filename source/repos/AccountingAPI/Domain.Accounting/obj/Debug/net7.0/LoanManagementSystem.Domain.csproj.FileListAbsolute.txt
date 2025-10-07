@@ -9,3 +9,14 @@ C:\Users\sajad\source\repos\AccountingAPI\Domain.Accounting\obj\Debug\net7.0\Loa
 C:\Users\sajad\source\repos\AccountingAPI\Domain.Accounting\obj\Debug\net7.0\refint\LoanManagementSystem.Domain.dll
 C:\Users\sajad\source\repos\AccountingAPI\Domain.Accounting\obj\Debug\net7.0\LoanManagementSystem.Domain.pdb
 C:\Users\sajad\source\repos\AccountingAPI\Domain.Accounting\obj\Debug\net7.0\ref\LoanManagementSystem.Domain.dll
+C:\Users\sajad\Source\Repos\Loan\source\repos\AccountingAPI\Domain.Accounting\bin\Debug\net7.0\LoanManagementSystem.Domain.deps.json
+C:\Users\sajad\Source\Repos\Loan\source\repos\AccountingAPI\Domain.Accounting\bin\Debug\net7.0\LoanManagementSystem.Domain.dll
+C:\Users\sajad\Source\Repos\Loan\source\repos\AccountingAPI\Domain.Accounting\bin\Debug\net7.0\LoanManagementSystem.Domain.pdb
+C:\Users\sajad\Source\Repos\Loan\source\repos\AccountingAPI\Domain.Accounting\obj\Debug\net7.0\LoanManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajad\Source\Repos\Loan\source\repos\AccountingAPI\Domain.Accounting\obj\Debug\net7.0\LoanManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\sajad\Source\Repos\Loan\source\repos\AccountingAPI\Domain.Accounting\obj\Debug\net7.0\LoanManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\sajad\Source\Repos\Loan\source\repos\AccountingAPI\Domain.Accounting\obj\Debug\net7.0\LoanManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sajad\Source\Repos\Loan\source\repos\AccountingAPI\Domain.Accounting\obj\Debug\net7.0\LoanManagementSystem.Domain.dll
+C:\Users\sajad\Source\Repos\Loan\source\repos\AccountingAPI\Domain.Accounting\obj\Debug\net7.0\refint\LoanManagementSystem.Domain.dll
+C:\Users\sajad\Source\Repos\Loan\source\repos\AccountingAPI\Domain.Accounting\obj\Debug\net7.0\LoanManagementSystem.Domain.pdb
+C:\Users\sajad\Source\Repos\Loan\source\repos\AccountingAPI\Domain.Accounting\obj\Debug\net7.0\ref\LoanManagementSystem.Domain.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MjpTWZC+ChbXLVbH3wEE4eYc1PUSuZVdzyCTMEUc6SIu2rpK5VFtphathgdX0EqGkN4U0Wh/NrZ9xXHF9mqpUA==",
+  "dgSpecHash": "iZgOveUD3Ba8C5F4W22UhDiJSCCWwzZ0XXWMMx/8yHI+S4j1SXvhHMmkgbKeQMS54gG4Ak8bu3qHW1EV+DshcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Domain.Accounting\\LoanManagementSystem.Domain.csproj",
+  "projectFilePath": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Domain.Accounting\\LoanManagementSystem.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

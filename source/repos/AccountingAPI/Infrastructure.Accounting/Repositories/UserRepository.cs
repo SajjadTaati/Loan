@@ -30,18 +30,12 @@ namespace LoanManagementSystem.Infrastructure.Repositories
         public async Task<int> CreateAsync(User user)
         {
             using var conn = _context.CreateConnection();
-            var parameters = new DynamicParameters();
-            parameters.Add("@Username", user.Username);
-            parameters.Add("@PasswordHash", user.PasswordHash, DbType.Binary);
-            parameters.Add("@PasswordSalt", user.PasswordSalt, DbType.Binary);
-            parameters.Add("@Role", user.Role);
-
-            var newId = await conn.ExecuteScalarAsync<int>(
-                "Users_Insert",
-                parameters,
+            var users = await conn.ExecuteScalarAsync<int>(
+                "InsertUsers",
+            
                 commandType: CommandType.StoredProcedure
             );
-            return newId;
+            return users;
         }
     }
 }

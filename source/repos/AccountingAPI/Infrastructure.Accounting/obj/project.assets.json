@@ -1487,11 +1487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Infrastructure.Accounting\\LoanManagementSystem.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Infrastructure.Accounting\\LoanManagementSystem.Infrastructure.csproj",
       "projectName": "LoanManagementSystem.Infrastructure",
-      "projectPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Infrastructure.Accounting\\LoanManagementSystem.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Infrastructure.Accounting\\LoanManagementSystem.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\sajad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Infrastructure.Accounting\\obj\\",
+      "outputPath": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Infrastructure.Accounting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1511,11 +1511,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj": {
-              "projectPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj"
+            "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj": {
+              "projectPath": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\AccountingAPI\\LoanManagementSystem.API.csproj"
             },
-            "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj": {
-              "projectPath": "C:\\Users\\sajad\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj"
+            "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj": {
+              "projectPath": "C:\\Users\\sajad\\Source\\Repos\\Loan\\source\\repos\\AccountingAPI\\Application.Accounting\\LoanManagementSystemApplication.csproj"
             }
           }
         }
